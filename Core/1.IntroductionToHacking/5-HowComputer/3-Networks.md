@@ -48,6 +48,8 @@ When you finish a tutorial, screenshot it and submit.
 ## Miscellany
 
 Traceroute bad.horse
+telnet star wars
+the pure existence of zombo.com
 
 ### Wireshark:
 <UNFUCKTHIS>
