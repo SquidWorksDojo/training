@@ -44,6 +44,11 @@ When you finish a tutorial, screenshot it and submit.
 8. Layer 7 - Application <https://tutorials.cyberaces.org/tutorials/view/2-8.html>
 9. Inter-Layer Communication & Conclusions <https://tutorials.cyberaces.org/tutorials/view/2-9.html>
 
+
+## Miscellany
+
+Traceroute bad.horse
+
 ### Wireshark:
 <UNFUCKTHIS>
  * Work through the NewBoston Wireshark tutorial. No need to watch all of it, or at regular speed. Try 1.5 speed (or 2x) and bounce around to learn as much as you can.
